@@ -1,177 +1,177 @@
 { 
-  "version": "1.5",
+  "version": "1.6",
   "messages": {
-"en": [
+  "en": [
     "<b>What's New</b>",
-    "<ul><li>Important Update</li><li>Fixed guest login bugs.</li><li>Resolved issues with stories.</li><li>General stability improvements.</li></ul>"
+    "<ul><li>Important Update</li><li>Sync Issue Fixed</li><li>Followers And Interaction Sync Working</li><li>Resolved issues with stories.</li><li>General stability improvements.</li><li>Rate Us 5 Stars For More Features</li></ul>"
   ],
   "de": [
-    "<b>Was gibt’s Neues</b>",
-    "<ul><li>Wichtiges Update</li><li>Fehler beim Gast-Login behoben.</li><li>Probleme mit Stories gelöst.</li><li>Allgemeine Stabilitätsverbesserungen.</li></ul>"
+    "<b>Was ist neu</b>",
+    "<ul><li>Wichtiges Update</li><li>Synchronisierungsproblem behoben</li><li>Synchronisierung von Followern und Interaktionen funktioniert</li><li>Probleme mit Storys behoben.</li><li>Allgemeine Stabilitätsverbesserungen.</li><li>Bewerten Sie uns mit 5 Sternen für weitere Funktionen</li></ul>"
   ],
   "hi": [
     "<b>नया क्या है</b>",
-    "<ul><li>महत्वपूर्ण अपडेट</li><li>गेस्ट लॉगिन बग्स को ठीक किया गया।</li><li>स्टोरीज़ से जुड़ी समस्याओं को हल किया गया।</li><li>सामान्य स्थिरता में सुधार।</li></ul>"
+    "<ul><li>महत्वपूर्ण अपडेट</li><li>सिंक समस्या ठीक की गई</li><li>फॉलोअर्स और इंटरैक्शन सिंक काम कर रहा है</li><li>स्टोरीज़ से जुड़ी समस्याओं का समाधान किया गया।</li><li>सामान्य स्थिरता में सुधार।</li><li>अधिक सुविधाओं के लिए हमें 5 स्टार रेटिंग दें </li></ul>"
   ],
   "be": [
-    "<b>Что новага</b>",
-    "<ul><li>Важнае абнаўленне</li><li>Выпраўлены памылкі ўваходу для гасцей.</li><li>Вырашаны праблемы з гісторыямі.</li><li>Агульныя паляпшэнні стабільнасці.</li></ul>"
+    "<b>Што новага</b>",
+    "<ul><li>Важнае абнаўленне</li><li>Праблема сінхранізацыі выпраўлена</li><li>Сінхранізацыя падпісчыкаў і ўзаемадзеянняў працуе</li><li>Вырашаны праблемы з гісторыямі.</li><li>Агульныя паляпшэнні стабільнасці.</li><li>Ацаніце нас на 5 зорак, каб атрымаць больш функцый</li></ul>"
   ],
   "fi": [
     "<b>Mitä uutta</b>",
-    "<ul><li>Tärkeä päivitys</li><li>Korjattu vieraskirjautumisen virheet.</li><li>Korjattu tarinoihin liittyvät ongelmat.</li><li>Yleisiä vakausparannuksia.</li></ul>"
+    "<ul><li>Tärkeä päivitys</li><li>Synkronointiongelma korjattu</li><li>Seuraajien ja vuorovaikutuksen synkronointi toimii</li><li>Tarinoihin liittyvät ongelmat ratkaistu.</li><li>Yleisiä vakauden parannuksia.</li><li>Arvioi meidät 5 tähdellä saadaksesi lisää ominaisuuksia</li></ul>"
   ],
   "ru": [
     "<b>Что нового</b>",
-    "<ul><li>Важное обновление</li><li>Исправлены ошибки гостевого входа.</li><li>Решены проблемы с историями.</li><li>Общие улучшения стабильности.</li></ul>"
+    "<ul><li>Важное обновление</li><li>Проблема синхронизации исправлена</li><li>Синхронизация подписчиков и взаимодействий работает</li><li>Исправлены проблемы с историями.</li><li>Общие улучшения стабильности.</li><li>Оцените нас на 5 звезд, чтобы получить больше функций</li></ul>"
   ],
   "pt": [
     "<b>Novidades</b>",
-    "<ul><li>Atualização importante</li><li>Erros no login de convidado corrigidos.</li><li>Problemas com os stories resolvidos.</li><li>Melhorias gerais de estabilidade.</li></ul>"
+    "<ul><li>Atualização importante</li><li>Problema de sincronização corrigido</li><li>Sincronização de seguidores e interações funcionando</li><li>Problemas com stories resolvidos.</li><li>Melhorias gerais de estabilidade.</li><li>Avalie-nos com 5 estrelas para mais recursos</li></ul>"
   ],
   "bg": [
     "<b>Какво ново</b>",
-    "<ul><li>Важна актуализация</li><li>Отстранени грешки при влизане като гост.</li><li>Разрешени проблеми с историите.</li><li>Общи подобрения на стабилността.</li></ul>"
+    "<ul><li>Важна актуализация</li><li>Проблемът със синхронизирането е отстранен</li><li>Синхронизирането на последователи и взаимодействия работи</li><li>Разрешени са проблеми с историите.</li><li>Общи подобрения на стабилността.</li><li>Оценете ни с 5 звезди за още функции </li></ul>"
   ],
   "fil": [
-    "<b>Ano'ng Bago</b>",
-    "<ul><li>Mahalagang Update</li><li>Inayos ang mga bug sa guest login.</li><li>Nalutas ang mga isyu sa stories.</li><li>Mga pangkalahatang pagpapabuti sa katatagan.</li></ul>"
+    "<b>Ano ang Bago</b>",
+    "<ul><li>Mahalagang Update</li><li>Naayos na ang Isyu sa Sync</li><li>Gumagana na ang Sync ng mga Follower at Interaksyon</li><li>Nalutas ang mga isyu sa mga story.</li><li>Pangkalahatang pagpapabuti sa katatagan.</li><li>I-rate Kami ng 5 Bituin Para sa Higit Pang Mga Feature </li></ul>"
   ],
   "lt": [
     "<b>Kas naujo</b>",
-    "<ul><li>Svarbus atnaujinimas</li><li>Ištaisytos svečio prisijungimo klaidos.</li><li>Išspręstos problemos su istorijomis.</li><li>Bendri stabilumo pagerinimai.</li></ul>"
+    "<ul><li>Svarbus atnaujinimas</li><li>Sinchronizavimo problema ištaisyta</li><li>Sekėjų ir sąveikos sinchronizavimas veikia</li><li>Išspręstos istorijų problemos.</li><li>Bendri stabilumo patobulinimai.</li><li>Įvertinkite mus 5 žvaigždutėmis, kad gautumėte daugiau funkcijų </li></ul>"
   ],
   "hr": [
     "<b>Što je novo</b>",
-    "<ul><li>Važno ažuriranje</li><li>Ispravljene pogreške pri prijavi gosta.</li><li>Riješeni problemi s pričama.</li><li>Opća poboljšanja stabilnosti.</li></ul>"
+    "<ul><li>Važno ažuriranje</li><li>Problem sa sinkronizacijom je riješen</li><li>Sinkronizacija pratitelja i interakcija radi</li><li>Riješeni problemi s pričama.</li><li>Opća poboljšanja stabilnosti.</li><li>Ocijenite nas s 5 zvjezdica za više značajki </li></ul>"
   ],
   "fr": [
     "<b>Nouveautés</b>",
-    "<ul><li>Mise à jour importante</li><li>Correction des bugs de connexion invité.</li><li>Problèmes avec les stories résolus.</li><li>Améliorations générales de la stabilité.</li></ul>"
+    "<ul><li>Mise à jour importante</li><li>Problème de synchronisation résolu</li><li>La synchronisation des abonnés et des interactions fonctionne</li><li>Résolution des problèmes liés aux stories.</li><li>Améliorations générales de la stabilité.</li><li>Notez-nous 5 étoiles pour plus de fonctionnalités </li></ul>"
   ],
   "hu": [
     "<b>Újdonságok</b>",
-    "<ul><li>Fontos frissítés</li><li>Vendég bejelentkezési hibák javítva.</li><li>Történetekkel kapcsolatos problémák megoldva.</li><li>Általános stabilitási javítások.</li></ul>"
+    "<ul><li>Fontos frissítés</li><li>Szinkronizálási hiba javítva</li><li>A követők és az interakciók szinkronizálása működik</li><li>A történetekkel kapcsolatos problémák megoldva.</li><li>Általános stabilitási fejlesztések.</li><li>Értékeljen minket 5 csillagra a további funkciókért </li></ul>"
   ],
   "uk": [
-    "<b>Что нового</b>",
-    "<ul><li>Важливе оновлення</li><li>Виправлено помилки гостьового входу.</li><li>Вирішено проблеми з історіями.</li><li>Загальні покращення стабільності.</li></ul>"
+    "<b>Що нового</b>",
+    "<ul><li>Важливе оновлення</li><li>Проблему синхронізації виправлено</li><li>Синхронізація підписників і взаємодій працює</li><li>Вирішено проблеми з історіями.</li><li>Загальні покращення стабільності.</li><li>Оцініть нас на 5 зірок, щоб отримати більше функцій </li></ul>"
   ],
   "sk": [
     "<b>Čo je nové</b>",
-    "<ul><li>Dôležitá aktualizácia</li><li>Opravené chyby prihlásenia hosťa.</li><li>Vyriešené problémy s príbehmi.</li><li>Všeobecné vylepšenia stability.</li></ul>"
+    "<ul><li>Dôležitá aktualizácia</li><li>Problém so synchronizáciou bol opravený</li><li>Synchronizácia sledovateľov a interakcií funguje</li><li>Vyriešené problémy s príbehmi.</li><li>Všeobecné vylepšenia stability.</li><li>Ohodnoťte nás 5 hviezdičkami pre ďalšie funkcie </li></ul>"
   ],
   "sl": [
     "<b>Kaj je novega</b>",
-    "<ul><li>Pomembna posodobitev</li><li>Odpravljene napake pri prijavi gosta.</li><li>Rešene težave z zgodbami.</li><li>Splošne izboljšave stabilnosti.</li></ul>"
+    "<ul><li>Pomembna posodobitev</li><li>Težava s sinhronizacijo je odpravljena</li><li>Sinhronizacija sledilcev in interakcij deluje</li><li>Odpravljene težave z zgodbami.</li><li>Splošne izboljšave stabilnosti.</li><li>Ocenite nas s 5 zvezdicami za več funkcij </li></ul>"
   ],
   "ca": [
     "<b>Novetats</b>",
-    "<ul><li>Actualització important</li><li>Errors de connexió de convidat corregits.</li><li>Problemes amb les històries resolts.</li><li>Millores generals d'estabilitat.</li></ul>"
+    "<ul><li>Actualització important</li><li>Problema de sincronització solucionat</li><li>La sincronització de seguidors i interaccions funciona</li><li>S'han resolt els problemes amb les històries.</li><li>Millores generals d'estabilitat.</li><li>Valora'ns amb 5 estrelles per a més funcions </li></ul>"
   ],
   "mk": [
     "<b>Што е ново</b>",
-    "<ul><li>Важно ажурирање</li><li>Поправени грешки при најава како гостин.</li><li>Решени проблеми со приказните.</li><li>Општи подобрувања на стабилноста.</li></ul>"
+    "<ul><li>Важно ажурирање</li><li>Проблемот со синхронизација е поправен</li><li>Синхронизацијата на следбеници и интеракции работи</li><li>Решени проблеми со приказните.</li><li>Општи подобрувања на стабилноста.</li><li>Оценете нè со 5 ѕвездички за повеќе функции </li></ul>"
   ],
   "sq": [
     "<b>Çfarë ka të re</b>",
-    "<ul><li>Përditësim i rëndësishëm</li><li>U rregulluan gabimet e hyrjes si mysafir.</li><li>U zgjidhën problemet me historitë.</li><li>Përmirësime të përgjithshme të stabilitetit.</li></ul>"
+    "<ul><li>Përditësim i rëndësishëm</li><li>Problemi i sinkronizimit u rregullua</li><li>Sinkronizimi i ndjekësve dhe ndërveprimeve po funksionon</li><li>U zgjidhën problemet me historitë.</li><li>Përmirësime të përgjithshme të stabilitetit.</li><li>Na vlerësoni me 5 yje për më shumë veçori </li></ul>"
   ],
   "ml": [
-    "<b>പുതിയ വിവരങ്ങൾ</b>",
-    "<ul><li>പ്രധാന അപ്ഡേറ്റ്</li><li>ഗസ്റ്റ് ലോഗിൻ ബഗുകൾ പരിഹരിച്ചു.</li><li>സ്റ്റോറികളിലെ പ്രശ്നങ്ങൾ പരിഹരിച്ചു.</li><li>പൊതുവായ സ്ഥിരത മെച്ചപ്പെടുത്തലുകൾ.</li></ul>"
+    "<b>പുതിയതെന്താണ്</b>",
+    "<ul><li>പ്രധാന അപ്ഡേറ്റ്</li><li>സിങ്ക് പ്രശ്നം പരിഹരിച്ചു</li><li>ഫോളോവേഴ്‌സ്, ഇന്ററാക്ഷൻ സിങ്ക് പ്രവർത്തിക്കുന്നു</li><li>സ്റ്റോറികളിലെ പ്രശ്നങ്ങൾ പരിഹരിച്ചു.</li><li>പൊതുവായ സ്ഥിരത മെച്ചപ്പെടുത്തലുകൾ.</li><li>കൂടുതൽ ഫീച്ചറുകൾക്കായി ഞങ്ങൾക്ക് 5 നക്ഷത്രങ്ങൾ നൽകുക </li></ul>"
   ],
   "sr": [
     "<b>Шта је ново</b>",
-    "<ul><li>Важно ажурирање</li><li>Исправљене грешке при пријави госта.</li><li>Решени проблеми са причама.</li><li>Општа побољшања стабилности.</li></ul>"
+    "<ul><li>Важно ажурирање</li><li>Проблем са синхронизацијом је решен</li><li>Синхронизација пратилаца и интеракција ради</li><li>Решени проблеми са причама.</li><li>Општа побољшања стабилности.</li><li>Оцените нас са 5 звездица за више функција </li></ul>"
   ],
   "sv": [
     "<b>Nyheter</b>",
-    "<ul><li>Viktig uppdatering</li><li>Fixat buggar för gästinloggning.</li><li>Löst problem med stories.</li><li>Allmänna stabilitetsförbättringar.</li></ul>"
+    "<ul><li>Viktig uppdatering</li><li>Synkroniseringsproblem åtgärdat</li><li>Synkronisering av följare och interaktioner fungerar</li><li>Löste problem med händelser.</li><li>Allmänna stabilitetsförbättringar.</li><li>Betygsätt oss med 5 stjärnor för fler funktioner </li></ul>"
   ],
   "ko": [
     "<b>새로운 기능</b>",
-    "<ul><li>중요 업데이트</li><li>게스트 로그인 버그 수정.</li><li>스토리 관련 문제 해결.</li><li>일반적인 안정성 개선.</li></ul>"
+    "<ul><li>중요 업데이트</li><li>동기화 문제 수정됨</li><li>팔로워 및 상호작용 동기화 정상 작동</li><li>스토리 관련 문제 해결됨.</li><li>전반적인 안정성 개선.</li><li>더 많은 기능을 위해 별점 5점을 주세요 </li></ul>"
   ],
   "af": [
-    "<b>Wat's Nuut</b>",
-    "<ul><li>Belangrike opdatering</li><li>Gaste-aanteken-foute reggemaak.</li><li>Kwessies met stories opgelos.</li><li>Algemene stabiliteitsverbeterings.</li></ul>"
+    "<b>Wat is nuut</b>",
+    "<ul><li>Belangrike opdatering</li><li>Sinkroniseringsprobleem reggestel</li><li>Sinkronisering van volgelinge en interaksies werk</li><li>Probleme met stories opgelos.</li><li>Algemene stabiliteitsverbeterings.</li><li>Gradeer ons 5 sterre vir meer kenmerke </li></ul>"
   ],
   "in": [
     "<b>Yang Baru</b>",
-    "<ul><li>Pembaruan Penting</li><li>Perbaikan bug login tamu.</li><li>Masalah dengan cerita telah diselesaikan.</li><li>Peningkatan stabilitas umum.</li></ul>"
+    "<ul><li>Pembaruan Penting</li><li>Masalah Sinkronisasi Diperbaiki</li><li>Sinkronisasi Pengikut dan Interaksi Berfungsi</li><li>Menyelesaikan masalah pada cerita.</li><li>Peningkatan stabilitas umum.</li><li>Beri Kami Nilai 5 Bintang Untuk Fitur Lainnya </li></ul>"
   ],
   "ms": [
     "<b>Apa Yang Baharu</b>",
-    "<ul><li>Kemas Kini Penting</li><li>Pepijat log masuk tetamu diperbaiki.</li><li>Isu dengan cerita diselesaikan.</li><li>Peningkatan kestabilan umum.</li></ul>"
+    "<ul><li>Kemas Kini Penting</li><li>Isu Penyegerakan Dibetulkan</li><li>Penyegerakan Pengikut dan Interaksi Berfungsi</li><li>Menyelesaikan isu berkaitan cerita.</li><li>Penambahbaikan kestabilan umum.</li><li>Nilaikan Kami 5 Bintang Untuk Lebih Banyak Ciri </li></ul>"
   ],
   "el": [
     "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Σημαντική ενημέρωση</li><li>Διορθώθηκαν σφάλματα σύνδεσης επισκέπτη.</li><li>Επιλύθηκαν προβλήματα με τις ιστορίες.</li><li>Γενικές βελτιώσεις σταθερότητας.</li></ul>"
+    "<ul><li>Σημαντική ενημέρωση</li><li>Το πρόβλημα συγχρονισμού διορθώθηκε</li><li>Ο συγχρονισμός ακολούθων και αλληλεπιδράσεων λειτουργεί</li><li>Επιλύθηκαν ζητήματα με τις ιστορίες.</li><li>Γενικές βελτιώσεις σταθερότητας.</li><li>Βαθμολογήστε μας με 5 αστέρια για περισσότερες λειτουργίες </li></ul>"
   ],
   "it": [
     "<b>Novità</b>",
-    "<ul><li>Aggiornamento importante</li><li>Risolti i bug del login ospite.</li><li>Risolti i problemi con le storie.</li><li>Miglioramenti generali della stabilità.</li></ul>"
+    "<ul><li>Aggiornamento importante</li><li>Problema di sincronizzazione risolto</li><li>Sincronizzazione di follower e interazioni funzionante</li><li>Risolti i problemi con le storie.</li><li>Miglioramenti generali della stabilità.</li><li>Valutaci 5 stelle per altre funzionalità </li></ul>"
   ],
   "es": [
     "<b>Novedades</b>",
-    "<ul><li>Actualización importante</li><li>Errores de inicio de sesión de invitado corregidos.</li><li>Problemas con las historias resueltos.</li><li>Mejoras generales de estabilidad.</li></ul>"
+    "<ul><li>Actualización importante</li><li>Problema de sincronización solucionado</li><li>La sincronización de seguidores e interacciones funciona</li><li>Se resolvieron problemas con las historias.</li><li>Mejoras generales de estabilidad.</li><li>Califícanos con 5 estrellas para más funciones </li></ul>"
   ],
   "et": [
-    "<b>Mis uut</b>",
-    "<ul><li>Oluline värskendus</li><li>Külalississelogimise vead parandatud.</li><li>Lugude probleemed lahendatud.</li><li>Üldised stabiilsuse parandused.</li></ul>"
+    "<b>Mis on uut</b>",
+    "<ul><li>Oluline uuendus</li><li>Sünkroonimise probleem parandatud</li><li>Jälgijate ja interaktsioonide sünkroonimine töötab</li><li>Lahendati lugudega seotud probleemid.</li><li>Üldised stabiilsuse täiustused.</li><li>Hinda meid 5 tärniga, et saada rohkem funktsioone </li></ul>"
   ],
   "cs": [
     "<b>Co je nového</b>",
-    "<ul><li>Důležitá aktualizace</li><li>Opraveny chyby při přihlášení hosta.</li><li>Vyřešeny problémy s příběhy.</li><li>Obecná vylepšení stability.</li></ul>"
+    "<ul><li>Důležitá aktualizace</li><li>Problém se synchronizací opraven</li><li>Synchronizace sledujících a interakcí funguje</li><li>Vyřešeny problémy s příběhy.</li><li>Obecná vylepšení stability.</li><li>Ohodnoťte nás 5 hvězdičkami pro více funkcí </li></ul>"
   ],
   "eu": [
-    "<b>Berrikuntzak</b>",
-    "<ul><li>Eguneratze garrantzitsua</li><li>Gonbidatu gisa saioa hasteko akatsak zuzenduta.</li><li>Istorioen arazoak konponduta.</li><li>Stabilitate orokorraren hobekuntzak.</li></ul>"
+    "<b>Zer berri</b>",
+    "<ul><li>Eguneratze garrantzitsua</li><li>Sinkronizazio-arazoa konpondu da</li><li>Jarraitzaileen eta interakzioen sinkronizazioa badabil</li><li>Istorioekin zeuden arazoak konpondu dira.</li><li>Egonkortasun-hobekuntza orokorrak.</li><li>Baloratu gaitzazu 5 izarrekin eginbide gehiago izateko </li></ul>"
   ],
   "ar": [
     "<b>ما الجديد</b>",
-    "<ul><li>تحديث مهم</li><li>تم إصلاح أعطال تسجيل دخول الضيوف.</li><li>تم حل المشكلات المتعلقة بالقصص.</li><li>تحسينات عامة على الاستقرار.</li></ul>"
+    "<ul><li>تحديث مهم</li><li>تم إصلاح مشكلة المزامنة</li><li>مزامنة المتابعين والتفاعلات تعمل الآن</li><li>تم حل المشكلات المتعلقة بالقصص.</li><li>تحسينات عامة في الاستقرار.</li><li>قيّمنا بـ 5 نجوم للحصول على المزيد من الميزات </li></ul>"
   ],
   "vi": [
     "<b>Có gì mới</b>",
-    "<ul><li>Cập nhật quan trọng</li><li>Sửa lỗi đăng nhập khách.</li><li>Đã giải quyết các sự cố với tin (stories).</li><li>Cải thiện độ ổn định chung.</li></ul>"
+    "<ul><li>Cập nhật quan trọng</li><li>Đã khắc phục sự cố đồng bộ hóa</li><li>Đồng bộ hóa người theo dõi và tương tác đang hoạt động</li><li>Đã giải quyết các sự cố với tin.</li><li>Cải thiện độ ổn định chung.</li><li>Đánh giá chúng tôi 5 sao để có thêm tính năng </li></ul>"
   ],
   "th": [
     "<b>มีอะไรใหม่</b>",
-    "<ul><li>อัปเดตสำคัญ</li><li>แก้ไขบั๊กการเข้าสู่ระบบแบบเกสต์</li><li>แก้ไขปัญหาเกี่ยวกับสตอรี่แล้ว</li><li>ปรับปรุงความเสถียรทั่วไป</li></ul>"
+    "<ul><li>อัปเดตสำคัญ</li><li>แก้ไขปัญหาการซิงค์แล้ว</li><li>การซิงค์ผู้ติดตามและการโต้ตอบใช้งานได้แล้ว</li><li>แก้ไขปัญหาเกี่ยวกับสตอรี่แล้ว</li><li>ปรับปรุงความเสถียรโดยทั่วไป</li><li>ให้คะแนนเรา 5 ดาวเพื่อรับฟีเจอร์เพิ่มเติม </li></ul>"
   ],
   "ja": [
     "<b>新機能</b>",
-    "<ul><li>重要なアップデート</li><li>ゲストログインのバグを修正しました。</li><li>ストーリーズの問題を解決しました。</li><li>一般的な安定性の向上。</li></ul>"
+    "<ul><li>重要なアップデート</li><li>同期の問題を修正しました</li><li>フォロワーとインタラクションの同期が機能するようになりました</li><li>ストーリーに関する問題を解決しました。</li><li>全般的な安定性の向上。</li><li>さらに多くの機能を利用するために5つ星の評価をお願いします </li></ul>"
   ],
   "az": [
-    "<b>Yeniliklər nədir</b>",
-    "<ul><li>Vacib yeniləmə</li><li>Qonaq girişi xətaları düzəldildi.</li><li>Hekayələrlə bağlı problemlər həll olundu.</li><li>Ümumi sabitlik təkmilləşdirmələri.</li></ul>"
+    "<b>Yeniliklər</b>",
+    "<ul><li>Vacib Yeniləmə</li><li>Sinxronizasiya Problemi Həll Edildi</li><li>İzləyicilərin və Qarşılıqlı Əlaqələrin Sinxronizasiyası İşləyir</li><li>Hekayələrlə bağlı problemlər həll edildi.</li><li>Ümumi sabitlik təkmilləşdirmələri.</li><li>Daha çox funksiya üçün bizə 5 ulduz verin </li></ul>"
   ],
   "fa": [
-    "<b>چه خبر جدید</b>",
-    "<ul><li>به‌روزرسانی مهم</li><li>رفع باگ‌های ورود مهمان.</li><li>مشکلات استوری‌ها حل شد.</li><li>بهبودهای عمومی پایداری برنامه.</li></ul>"
+    "<b>تغییرات جدید</b>",
+    "<ul><li>به‌روزرسانی مهم</li><li>مشکل همگام‌سازی برطرف شد</li><li>همگام‌سازی دنبال‌کنندگان و تعاملات در حال کار است</li><li>مشکلات مربوط به استوری‌ها برطرف شد.</li><li>بهبودهای کلی پایداری.</li><li>برای امکانات بیشتر به ما ۵ ستاره بدهید </li></ul>"
   ],
   "pl": [
     "<b>Co nowego</b>",
-    "<ul><li>Ważna aktualizacja</li><li>Naprawiono błędy logowania gościa.</li><li>Rozwiązano problemy z relacjami (stories).</li><li>Ogólne poprawki stabilności.</li></ul>"
+    "<ul><li>Ważna aktualizacja</li><li>Naprawiono problem z synchronizacją</li><li>Synchronizacja obserwujących i interakcji działa</li><li>Rozwiązano problemy z relacjami.</li><li>Ogólne poprawki stabilności.</li><li>Oceń nas na 5 gwiazdek, aby uzyskać więcej funkcji </li></ul>"
   ],
   "da": [
-    "<b>Hvad er nyt</b>",
-    "<ul><li>Vigtig opdatering</li><li>Fejl ved gæstelogin er rettet.</li><li>Problemer med historier er løst.</li><li>Generelle stabilitetsforbedringer.</li></ul>"
+    "<b>Nyheder</b>",
+    "<ul><li>Vigtig opdatering</li><li>Synkroniseringsproblem rettet</li><li>Synkronisering af følgere og interaktioner virker</li><li>Løste problemer med historier.</li><li>Generelle stabilitetsforbedringer.</li><li>Giv os 5 stjerner for flere funktioner </li></ul>"
   ],
   "ro": [
-    "<b>Noutăți</b>",
-    "<ul><li>Actualizare importantă</li><li>S-au remediat erorile la autentificarea ca oaspete.</li><li>S-au rezolvat problemele legate de povești (stories).</li><li>Îmbunătățiri generale ale stabilității.</li></ul>"
+    "<b>Ce este nou</b>",
+    "<ul><li>Actualizare importantă</li><li>Problema de sincronizare a fost remediată</li><li>Sincronizarea urmăritorilor și a interacțiunilor funcționează</li><li>S-au rezolvat problemele cu poveștile.</li><li>Îmbunătățiri generale ale stabilității.</li><li>Acordă-ne 5 stele pentru mai multe funcții </li></ul>"
   ],
   "nl": [
     "<b>Wat is er nieuw</b>",
-    "<ul><li>Belangrijke update</li><li>Fouten bij gastinloggen opgelost.</li><li>Problemen met verhalen (stories) verholpen.</li><li>Algemene stabiliteitsverbeteringen.</li></ul>"
+    "<ul><li>Belangrijke update</li><li>Synchronisatieprobleem opgelost</li><li>Synchronisatie van volgers en interacties werkt</li><li>Problemen met verhalen opgelost.</li><li>Algemene stabiliteitsverbeteringen.</li><li>Beoordeel ons met 5 sterren voor meer functies </li></ul>"
   ],
   "tr": [
     "<b>Yenilikler</b>",
-    "<ul><li>Önemli Güncelleme</li><li>Misafir girişi hataları düzeltildi.</li><li>Hikayelerle ilgili sorunlar çözüldü.</li><li>Genel kararlılık iyileştirmeleri.</li></ul>"
+    "<ul><li>Önemli Güncelleme</li><li>Senkronizasyon Sorunu Düzeltildi</li><li>Takipçi ve Etkileşim Senkronizasyonu Çalışıyor</li><li>Hikayelerle ilgili sorunlar çözüldü.</li><li>Genel kararlılık iyileştirmeleri.</li><li>Daha Fazla Özellik İçin Bize 5 Yıldız Verin </li></ul>"
   ]
   }
 }
